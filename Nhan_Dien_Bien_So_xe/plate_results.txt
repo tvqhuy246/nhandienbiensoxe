@@ -1,0 +1,133 @@
+Tệp ảnh: bien_so_xemay_1.jpg
+Biển số: 29-C1999.99
+Loại xe: Motorbike
+Confidence cao nhất: 0.00
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+Confidence cao nhất: 0.00
+----------------------------------------
+Tệp ảnh: car_3.jpg
+Biển số: 18A-123.45
+Loại xe: Car
+Confidence cao nhất: 0.98
+----------------------------------------
+Tệp ảnh: car_6.jpg
+Biển số: 30E-922.91
+Loại xe: Car
+Confidence cao nhất: 0.96
+----------------------------------------
+Tệp ảnh: nhieuxe.jpg
+Biển số: 999.99
+Loại xe: Undefined
+Confidence cao nhất: 1.00
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+Confidence cao nhất: 0.00
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+Confidence cao nhất: 0.00
+----------------------------------------
+Tệp ảnh: xecuaLUYEN.jpg
+Biển số: 79-N63475
+Loại xe: Motorbike
+Confidence cao nhất: 0.00
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9
+Loại xe: Undefined
+Xác suất: 0.96
+--------------------
+Biển số: 999.99
+Loại xe: Undefined
+Xác suất: 1.00
+--------------------
+Tệp ảnh: nhieuxe.jpg
+Biển số: 59-3
+Loại xe: Undefined
+Xác suất: 0.63
+--------------------
+Biển số: 553
+Loại xe: Undefined
+Xác suất: 0.67
+--------------------
+Biển số: 48-81
+Loại xe: Undefined
+Xác suất: 0.87
+--------------------
+Biển số: 999.99
+Loại xe: Undefined
+Xác suất: 1.00
+--------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9
+Loại xe: Undefined
+----------------------------------------
+Biển số: 999.99
+Loại xe: Undefined
+----------------------------------------
+Tệp ảnh: nhieuxe.jpg
+Biển số: 59-3
+Loại xe: Undefined
+----------------------------------------
+Biển số: 553
+Loại xe: Undefined
+----------------------------------------
+Biển số: 48-81
+Loại xe: Undefined
+----------------------------------------
+Biển số: 999.99
+Loại xe: Undefined
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9
+Loại xe: Undefined
+----------------------------------------
+Biển số: 999.99
+Loại xe: Undefined
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+----------------------------------------
+Tệp ảnh: nhieuxe.jpg
+Biển số: 999.99
+Loại xe: Undefined
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+----------------------------------------
+Tệp ảnh: bien_so_xe_may_2.jpg
+Biển số: 63-B9999.99
+Loại xe: Motorbike
+----------------------------------------
+Tệp ảnh: car_3.jpg
+Biển số: 18A-123.45
+Loại xe: Car
+----------------------------------------
+Tệp ảnh: car_3.jpg
+Biển số: 18A-123.45
+Loại xe: Car
+----------------------------------------
