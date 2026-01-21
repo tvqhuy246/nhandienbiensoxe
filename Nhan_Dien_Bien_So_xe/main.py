@@ -13,7 +13,7 @@ from firebase_admin import credentials, db
 # ==================== Firebase Setup ====================
 
 firebaseConfig = {
-    "apiKey": "AIzaSyAaokoz864NmLvg1ijSTynsyrE0-oTBVfM",
+
     "authDomain": "nhandienbiensoxe-938c7.firebaseapp.com",
     "databaseURL": "https://nhandienbiensoxe-938c7-default-rtdb.firebaseio.com",
     "storageBucket": "nhandienbiensoxe-938c7.firebasestorage.app"
